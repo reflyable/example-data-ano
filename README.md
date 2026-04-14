@@ -7,7 +7,7 @@ This repository contains a sample dataset provided for evaluation during the dou
 ## File
 
 The sample data is provided as a single Parquet file:
-* `sample_data.parquet`
+* `example_data_ano.parquet`
 
 ## Data Format
 
